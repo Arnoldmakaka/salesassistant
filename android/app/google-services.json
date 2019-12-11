@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "220292660121",
+    "firebase_url": "https://sales-assitant-b807d.firebaseio.com",
+    "project_id": "sales-assitant-b807d",
+    "storage_bucket": "sales-assitant-b807d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220292660121:android:01a68dd86d4d7cd6137108",
+        "android_client_info": {
+          "package_name": "com.youngtreps.salesassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220292660121-h8t65r401kq3tgl6auo6emg8nn9cl7vj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youngtreps.salesassistant",
+            "certificate_hash": "24aadb8f4099a9d34e18dad0a77476f01974ba44"
+          }
+        },
+        {
+          "client_id": "220292660121-pf4nuf28go57mgv00k4oj3u69gmug369.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBDGG_npez7tQ1sFRTN_nO7MHLqdTGS8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220292660121-pf4nuf28go57mgv00k4oj3u69gmug369.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

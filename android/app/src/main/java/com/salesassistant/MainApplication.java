@@ -1,4 +1,4 @@
-package com.salesassistant;
+package com.youngtreps.salesassistant;
 
 import android.app.Application;
 import android.content.Context;
