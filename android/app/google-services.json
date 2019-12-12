@@ -15,11 +15,19 @@
       },
       "oauth_client": [
         {
-          "client_id": "220292660121-h8t65r401kq3tgl6auo6emg8nn9cl7vj.apps.googleusercontent.com",
+          "client_id": "220292660121-knu6bqage4089jp7rhi51o1lvu4q1d6h.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.youngtreps.salesassistant",
             "certificate_hash": "24aadb8f4099a9d34e18dad0a77476f01974ba44"
+          }
+        },
+        {
+          "client_id": "220292660121-dfdp9prj4ihbc1vbkbk18qdo2ovktqls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youngtreps.salesassistant",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
           }
         },
         {
